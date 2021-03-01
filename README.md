@@ -24,4 +24,4 @@ The modification does not change the displayed styling of the page, only the und
 
 **Installation**
 
-Upload index.html and assets folder to the deployed webserver. The assets folder contains images and CSS file.
+Uploaded index.html and assets folder to the deployed webserver. The assets folder contains images and CSS file.
