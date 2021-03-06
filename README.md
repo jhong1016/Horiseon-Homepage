@@ -22,7 +22,7 @@ The modification does not change the displayed styling of the page, only the und
 
 **Link to Website**
 
-(https://jhong1016.github.io/Horiseon-Homepage/)
+https://jhong1016.github.io/Horiseon-Homepage/
 
 **Installation**
 
