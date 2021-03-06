@@ -20,7 +20,9 @@ The modification does not change the displayed styling of the page, only the und
 
 ![Screenshot](https://user-images.githubusercontent.com/79346473/109483575-8865e780-7ad3-11eb-9e3a-23e4f68648ca.JPG)
 
-**[Link](https://jhong1016.github.io/horiseon-homework/) to Website**
+**Link to Website**
+
+(https://jhong1016.github.io/Horiseon-Homepage/)
 
 **Installation**
 
